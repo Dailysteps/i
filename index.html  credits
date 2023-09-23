@@ -1015,7 +1015,7 @@
 				<input type="submit" />
 			</form>
 			<div id="credits" class="credits" aria-hidden="true">
-				<a href='https://github.com/steveseguin/vdoninja' aria-hidden="true">VDO.Ninja, by Steve Seguin</a> 
+				<a href='https://github.com/steveseguin/vdoninja' aria-hidden="true">easyliv, by Isaac Osei</a> 
 			</div>
 		</div>
 		<div id="directorlayout" class="hidden directorsgrid">
