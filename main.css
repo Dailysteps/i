@@ -357,7 +357,7 @@ button.grey {
 	cursor: pointer;
 	border-radius: 2px;
 	background-color: var(--button-color);
-	color: white;
+	color: #FF5800;
 }
 
 button.hint {
